@@ -54,10 +54,12 @@ h1{
 .bottomrightarrw P{
     float:right;
     font-size: 2em;
+    padding-right: 200px;
 }
 .maincontent ul{
     padding-left: 35px;
     list-style-type: upper-roman;
+    line-height: 30px;
 }
 /* *::before{
     background-image: url(vlabbg.png);
